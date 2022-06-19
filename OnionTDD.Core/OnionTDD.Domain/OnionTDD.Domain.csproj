@@ -6,4 +6,8 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\OnionTDD.Core\OnionTDD.Core.csproj" />
+    </ItemGroup>
+
 </Project>
